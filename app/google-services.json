@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973319768668",
+    "project_id": "testtask-c5f4a",
+    "storage_bucket": "testtask-c5f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973319768668:android:214f0f7151cde4a0b17499",
+        "android_client_info": {
+          "package_name": "ru.korben.viktorina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973319768668-ncamcrvlg5l88vlu1an6m7klet2msnac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLCuABIgO9dHp-mtVf0xtJh0_xOdceJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973319768668-ncamcrvlg5l88vlu1an6m7klet2msnac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

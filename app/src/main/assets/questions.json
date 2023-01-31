@@ -1,0 +1,58 @@
+[
+  {
+    "questionText": "How many players are in a baseball game?",
+    "answer1": "9",
+    "answer2": "10",
+    "answer3": "11",
+    "answer4": "12",
+    "trueAnswer": "9"
+  },
+  {
+    "questionText": "Which team won the first NBA game in 1946?",
+    "answer1": "Toronto Sharks",
+    "answer2": "Monreal Canadiens",
+    "answer3": "Colorado nashvill",
+    "answer4": "Ottawa Senators",
+    "trueAnswer": "New York Knicks"
+  },
+  {
+    "questionText": "What team did Michael Jordan play for most of his career??",
+    "answer1": "Montreal Canadiens",
+    "answer2": "Los Angeles Galaxy",
+    "answer3": "Utah Jazz",
+    "answer4": "Chicago Bulls",
+    "trueAnswer": "Chicago Bulls"
+  },
+  {
+    "questionText": "How many oars are used in a kayak?",
+    "answer1": "3",
+    "answer2": "4",
+    "answer3": "1",
+    "answer4": "2",
+    "trueAnswer": "1"
+  },
+  {
+    "questionText": "Which of the following is not a water sport?",
+    "answer1": "paragliding",
+    "answer2": "Cliff diving",
+    "answer3": "Windsurfing",
+    "answer4": "rowing",
+    "trueAnswer": "paragliding"
+  },
+  {
+    "questionText": "How many times has Efren Reyes won the World Pool League Championship??",
+    "answer1": "1",
+    "answer2": "2",
+    "answer3": "3",
+    "answer4": "4",
+    "trueAnswer": "2"
+  },
+  {
+  "questionText": "Which country has the most Olympic gold medals in swimming??",
+  "answer1": "Chine",
+  "answer2": "USA",
+  "answer3": "UK",
+  "answer4": "Australia",
+  "trueAnswer": "USA"
+}
+]

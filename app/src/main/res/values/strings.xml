@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Viktorina test</string>
+    <string name="starttest">Start Test</string>
+    <string name="nextquestion">Next Question</string>
+    <string name="finish">Finish Quiz</string>
+    <string name="goodresult">Congratulations! You have good result!</string>
+    <string name="badresult">Your result not so good :( Try again!</string>
+    <string name="ok">Ok</string>
+    <string name="delRec">Delete test result</string>
+    <string name="wrong">Something goes wrong</string>
+    <string name="sorry">Sorry, u cant share this result, u need at least 60% correct answers</string>
+    <string name="share">U can share ur result!</string>
+    <string name="check">Check at least one answer!</string>
+</resources>
